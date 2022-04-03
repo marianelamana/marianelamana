@@ -9,8 +9,8 @@
 How to reach me: <a href="https://www.linkedin.com/in/marianelamana/"><img src="https://img.shields.io/badge/-LinkedIn-blue"></a>
 <a href="https://marianelamana.herokuapp.com/"><img src="https://img.shields.io/badge/-MyPortfolio-ff69b4"></a>
 
-
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40px">
@@ -27,6 +27,7 @@ How to reach me: <a href="https://www.linkedin.com/in/marianelamana/"><img src="
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="40px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40px">
 </div>
-### :fire: My Stats :
+
+### :fire: My Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=marianelamana">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianelamana">
