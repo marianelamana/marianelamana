@@ -10,22 +10,17 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" width="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40px">
