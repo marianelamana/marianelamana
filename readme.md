@@ -10,6 +10,7 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px">
@@ -24,3 +25,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="40px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40px">
+</div>
