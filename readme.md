@@ -3,10 +3,11 @@
 
 <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200px">
 
-<a href="https://www.linkedin.com/in/marianelamana/"><img src="https://img.shields.io/badge/-LinkedIn-blue"></a>
-<a href="https://marianelamana.herokuapp.com/"><img src="https://img.shields.io/badge/-MyPortfolio-ff69b4"></a>
 
-### :woman_technologist: About me: I'm a Back-end developer
+
+### :woman_technologist: About me: I'm a Back-end developer from Brazil
+How to reach me: <a href="https://www.linkedin.com/in/marianelamana/"><img src="https://img.shields.io/badge/-LinkedIn-blue"></a>
+<a href="https://marianelamana.herokuapp.com/"><img src="https://img.shields.io/badge/-MyPortfolio-ff69b4"></a>
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -26,3 +27,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="40px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40px">
 </div>
+### :fire: My Stats :
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marianelamana">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianelamana">
