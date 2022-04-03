@@ -3,12 +3,17 @@
 
 <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200px">
 
-<a href="https://www.linkedin.com/in/marianelamana/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/marianelamana/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a> <img src="https://komarev.com/ghpvc/?username=marianelamana&style=flat-square&color=blue" alt=""/>
 
-### :woman_technologist: About Me: ###  Web Developer
+### :woman_technologist: About me: I'm a Back-end developer
 
-https://github-readme-streak-stats.herokuapp.com/?user=marianelamana
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=marianelamana
+[My portfolio](https://marianelamana.herokuapp.com/)
 
 
+
+### :hammer_and_wrench: Languages and Tools :
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-devicon-plain"></i>
